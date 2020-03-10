@@ -1,8 +1,7 @@
  ### **Yihao Huang (黄怿豪)**           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D Student
 
  East China Normal University ([ECNU](http://english.ecnu.edu.cn/))
- 
- **Email：** huangyihao22@gmail.com 
+ <br>**Email：** huangyihao22@gmail.com 
  
 ![Image](head_portrait.png)
 
@@ -17,13 +16,13 @@ My research interests are in:
 
 1.  A Domain Experts Centric Approach to Formal Requirements Modeling and V&V of Embedded Control Software
 Weikai Miao, Qianqian Yan, **Yihao Huang**, Jincao Feng, Hanyue Zheng
-The 26th Asia-Pacific Software Engineering Conference
-APSEC 2019
+<br>The 26th Asia-Pacific Software Engineering Conference
+<br>APSEC 2019
 
 2. Prema: A Tool for Precise Requirements Editing, Modeling and Analysis (Tool paper)
 **Yihao Huang**, Jincao Feng, Hanyue Zheng, Jiayi Zhu, Shang Wang, Siyuan Jiang, Weikai Miao, Geguang Pu 
-34th IEEE/ACM International Conference on Automated Software Engineering
-ASE 2019
+<br>34th IEEE/ACM International Conference on Automated Software Engineering
+<br>ASE 2019
 
 
 
