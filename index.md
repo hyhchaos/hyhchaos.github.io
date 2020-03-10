@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+ ### **Yihao Huang (黄怿豪)**           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D Student
 
-You can use the [editor on GitHub](https://github.com/hyhchaos/hyhchaos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ East China Normal University ([ECNU](http://english.ecnu.edu.cn/))
+ **Email：** huangyihao22@gmail.com 
+ 
+![Image](head_portrait.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a third-year Ph.D. student at East China Normal University (ECNU), Shanghai, China (2017-present), and supervised by Prof. [Geguang Pu](https://facultyold.ecnu.edu.cn/s/1018/t/11459/main.jspy) and A.P. [Weikai Miao](https://facultyold.ecnu.edu.cn/s/2712/t/29229/main.jspy). I also received my B.S. degree from ECNU (2013-2017). I had a memorable visit in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore, advised by Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/index.html) and Ph.D [Felix Juefei Xu](http://xujuefei.com/) from Alibaba (2019.9-2020.2).
 
-### Markdown
+My research interests are in:
+- Machine Learning
+- Computer Vision
+- Formal Method
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
 
-```markdown
-Syntax highlighted code block
+1.  A Domain Experts Centric Approach to Formal Requirements Modeling and V&V of Embedded Control Software
+Weikai Miao, Qianqian Yan, **Yihao Huang**, Jincao Feng, Hanyue Zheng
+The 26th Asia-Pacific Software Engineering Conference
+APSEC 2019
 
-# Header 1
-## Header 2
-### Header 3
+2. Prema: A Tool for Precise Requirements Editing, Modeling and Analysis (Tool paper)
+**Yihao Huang**, Jincao Feng, Hanyue Zheng, Jiayi Zhu, Shang Wang, Siyuan Jiang, Weikai Miao, Geguang Pu 
+34th IEEE/ACM International Conference on Automated Software Engineering
+ASE 2019
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hyhchaos/hyhchaos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
