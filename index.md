@@ -1,6 +1,6 @@
  ![Image](head_portrait.png)
  
- # Yihao Huang (黄怿豪)   
+ ## Yihao Huang  
  
  Ph.D Student
  <br>East China Normal University ([ECNU](http://english.ecnu.edu.cn/))
