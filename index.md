@@ -1,4 +1,4 @@
- ### **Yihao Huang (黄怿豪)**   
+ ### Yihao Huang (黄怿豪)   
  
  Ph.D Student
  <br>East China Normal University ([ECNU](http://english.ecnu.edu.cn/))
