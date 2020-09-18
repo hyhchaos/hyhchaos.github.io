@@ -18,7 +18,7 @@ My research interests are in:
 <ol>
 <li>
 DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake Voices
-<br>Run Wang, Felix Juefei-Xu, __Yihao Huang__, Qing Guo, Xiaofei Xie, Lei Ma, Yang Liu
+<br>Run Wang, Felix Juefei-Xu, **Yihao Huang**, Qing Guo, Xiaofei Xie, Lei Ma, Yang Liu
 <br>ACM International Conference on Multimedia
 <br>ACM MM 2020
 </li>
