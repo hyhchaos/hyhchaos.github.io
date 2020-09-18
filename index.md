@@ -18,37 +18,37 @@ My research interests are in:
 <ol>
 <li>
 DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake Voices
-<br>Run Wang, Felix Juefei-Xu, **Yihao Huang**, Qing Guo, Xiaofei Xie, Lei Ma, Yang Liu
+<br>Run Wang, Felix Juefei-Xu, ** Yihao Huang **, Qing Guo, Xiaofei Xie, Lei Ma, Yang Liu
 <br>ACM International Conference on Multimedia
 <br>ACM MM 2020
 </li>
 <li>
 Amora: Black-box adversarial morphing attack
-<br>Run Wang, Felix Juefei-Xu, Xiaofei Xie, Lei Ma, **Yihao Huang**, Yang Liu
+<br>Run Wang, Felix Juefei-Xu, Xiaofei Xie, Lei Ma, ** Yihao Huang **, Yang Liu
 <br>ACM International Conference on Multimedia
 <br>ACM MM 2020
 </li>
 <li>
 FakePolisher: Making DeepFakes More Detection-Evasive by Shallow Reconstruction
-<br>**Yihao Huang**, Felix Juefei-Xu, Run Wang, Qing Guo, Lei Ma, Xiaofei Xie, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu
+<br>** Yihao Huang **, Felix Juefei-Xu, Run Wang, Qing Guo, Lei Ma, Xiaofei Xie, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu
 <br>ACM International Conference on Multimedia
 <br>ACM MM 2020
 </li>
 <li>
 FakeSpotter: A Simple yet Robust Baseline for Spotting AI-Synthesized Fake Faces
-<br>Run Wang, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, **Yihao Huang**, Jian Wang, Yang Liu
+<br>Run Wang, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, ** Yihao Huang **, Jian Wang, Yang Liu
 <br>Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence
 <br>IJCAI 2020
 </li>
 <li>
 A Domain Experts Centric Approach to Formal Requirements Modeling and V&V of Embedded Control Software
-<br>Weikai Miao, Qianqian Yan, **Yihao Huang**, Jincao Feng, Hanyue Zheng
+<br>Weikai Miao, Qianqian Yan, ** Yihao Huang **, Jincao Feng, Hanyue Zheng
 <br>The 26th Asia-Pacific Software Engineering Conference
 <br>APSEC 2019
 </li>
 <li>
 Prema: A Tool for Precise Requirements Editing, Modeling and Analysis (Tool paper)
-<br>**Yihao Huang**, Jincao Feng, Hanyue Zheng, Jiayi Zhu, Shang Wang, Siyuan Jiang, Weikai Miao, Geguang Pu 
+<br>** Yihao Huang **, Jincao Feng, Hanyue Zheng, Jiayi Zhu, Shang Wang, Siyuan Jiang, Weikai Miao, Geguang Pu 
 <br>34th IEEE/ACM International Conference on Automated Software Engineering
 <br>ASE 2019
 </li>
