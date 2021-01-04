@@ -16,7 +16,7 @@ My research interests are in:
 ## Publications
 1. FREPA: an automated and formal approach to requirement modeling and analysis in aircraft control domain
 <br>Jincao Feng, Weikai Miao, Hanyue Zheng, **Yihao Huang**, Jianwen Li, Zheng Wang, Ting Su, Bin Gu, Geguang Pu, Mengfei Yang, Jifeng He
-<br>Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+<br>The 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
 <br>ESEC/FES 2020
 
 1. DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake Voices
@@ -46,7 +46,7 @@ My research interests are in:
 
 1. Prema: A Tool for Precise Requirements Editing, Modeling and Analysis (Tool paper)
 <br>**Yihao Huang**, Jincao Feng, Hanyue Zheng, Jiayi Zhu, Shang Wang, Siyuan Jiang, Weikai Miao, Geguang Pu 
-<br>34th IEEE/ACM International Conference on Automated Software Engineering
+<br>The 34th IEEE/ACM International Conference on Automated Software Engineering
 <br>ASE 2019
 
 ## Service
