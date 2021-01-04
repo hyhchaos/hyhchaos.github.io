@@ -11,10 +11,13 @@ I am a fourth-year Ph.D. student at East China Normal University (ECNU), Shangha
 My research interests are in:
 - Machine Learning
 - Computer Vision
-- Formal Method
+- Security
 
 ## Publications
-
+1. FREPA: an automated and formal approach to requirement modeling and analysis in aircraft control domain
+<br>Jincao Feng, Weikai Miao, Hanyue Zheng, **Yihao Huang**, Jianwen Li, Zheng Wang, Ting Su, Bin Gu, Geguang Pu, Mengfei Yang, Jifeng He
+<br>Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+<br>ESEC/FES 2020
 
 1. DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake Voices
 <br>Run Wang, Felix Juefei-Xu, **Yihao Huang**, Qing Guo, Xiaofei Xie, Lei Ma, Yang Liu
@@ -46,7 +49,10 @@ My research interests are in:
 <br>34th IEEE/ACM International Conference on Automated Software Engineering
 <br>ASE 2019
 
-
+## Service
+###External reviewer
+AAAI   2021
+CVPR   2021
 
 
 
