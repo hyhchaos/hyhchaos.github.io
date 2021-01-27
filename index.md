@@ -6,7 +6,7 @@ Ph.D Student
 <br>East China Normal University ([ECNU](http://english.ecnu.edu.cn/))
 <br>**Email：** huangyihao22@gmail.com 
 
-I am a fourth-year Ph.D. student at East China Normal University (ECNU), Shanghai, China (2017-present), and supervised by Prof. [Geguang Pu](https://facultyold.ecnu.edu.cn/s/1018/t/11459/main.jspy) and A.P. [Weikai Miao](https://facultyold.ecnu.edu.cn/s/2712/t/29229/main.jspy). I also received my B.S. degree from ECNU (2013-2017). I had a memorable visit in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore, advised by Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/index.html) and Ph.D [Felix Juefei Xu](http://xujuefei.com/) from Alibaba (2019.9-2020.2).
+I am a fourth-year Ph.D. student at East China Normal University (ECNU), Shanghai, China (2017-present), and supervised by Prof. [Geguang Pu](https://facultyold.ecnu.edu.cn/s/1018/t/11459/main.jspy) and Dr. [Weikai Miao](https://facultyold.ecnu.edu.cn/s/2712/t/29229/main.jspy). I also received my B.S. degree from ECNU (2013-2017). I had a memorable visit in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore, advised by Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/index.html) and Dr. [Felix Juefei Xu](http://xujuefei.com/) from Alibaba (2019.9-2020.2).
 
 My research interests are in:
 - Machine Learning
@@ -17,7 +17,7 @@ My research interests are in:
 1. FREPA: an automated and formal approach to requirement modeling and analysis in aircraft control domain
 <br>Jincao Feng, Weikai Miao, Hanyue Zheng, **Yihao Huang**, Jianwen Li, Zheng Wang, Ting Su, Bin Gu, Geguang Pu, Mengfei Yang, Jifeng He
 <br>The 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-<br>ESEC/FES 2020
+<br>ESEC/FSE 2020
 
 1. DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake Voices
 <br>Run Wang, Felix Juefei-Xu, **Yihao Huang**, Qing Guo, Xiaofei Xie, Lei Ma, Yang Liu
