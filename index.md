@@ -14,6 +14,11 @@ My research interests are in:
 - Security
 
 ## Publications
+1. AdvFilter: Predictive Perturbation-aware Filtering against Adversarial Attack via Multi-domain Learning
+<br>**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Lei Ma, Weikai Miao, Yang Liu, Geguang Pu
+<br>ACM International Conference on Multimedia
+<br>ACM MM 2021
+
 1. FREPA: an automated and formal approach to requirement modeling and analysis in aircraft control domain
 <br>Jincao Feng, Weikai Miao, Hanyue Zheng, **Yihao Huang**, Jianwen Li, Zheng Wang, Ting Su, Bin Gu, Geguang Pu, Mengfei Yang, Jifeng He
 <br>The 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
