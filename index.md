@@ -15,7 +15,7 @@ My research interests are in:
 
 ## Publications
 1. AdvFilter: Predictive Perturbation-aware Filtering against Adversarial Attack via Multi-domain Learning
-<br>**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Lei Ma, Weikai Miao, Yang Liu, Geguang Pu
+<br>**Yihao Huang**, Qing Guo, Felix Juefei-Xu, Lei Ma, Weikai Miao, Yang Liu, Geguang Pu
 <br>ACM International Conference on Multimedia
 <br>ACM MM 2021
 
