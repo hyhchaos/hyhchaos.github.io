@@ -18,6 +18,7 @@ My research interests are in:
 <br>**Yihao Huang**, Qing Guo, Felix Juefei-Xu, Lei Ma, Weikai Miao, Yang Liu, Geguang Pu
 <br>ACM International Conference on Multimedia
 <br>ACM MM 2021
+[pdf](https://arxiv.org/abs/2107.06501)
 
 1. FREPA: an automated and formal approach to requirement modeling and analysis in aircraft control domain
 <br>Jincao Feng, Weikai Miao, Hanyue Zheng, **Yihao Huang**, Jianwen Li, Zheng Wang, Ting Su, Bin Gu, Geguang Pu, Mengfei Yang, Jifeng He
